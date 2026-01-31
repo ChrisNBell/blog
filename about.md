@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! I am Chris Bell. I am a Computer Science and Mathematics double major at Hendrix College, graduating in Fall 2026. In my free time, I love making music and watching football. I am very interested the following career paths:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Data Scientist
+- Actuary
+- Software Engineer
+- Machine Learning Engineer
+- Cybersecurity Engineer
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I always strive to be a better version of myself day by day through my faith!
