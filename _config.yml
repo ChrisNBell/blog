@@ -1,19 +1,18 @@
 # Site-wide settings
 # ------------------
 #
-# title: Your awesome title
+# title: Chris Bell's Blog
 #
 # author:
-#   name: GitHub User
-#   email: your-email@domain.com
+#   name: Chris Bell
+#   email: BellCN@hendrix.edu
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 # description: >
-#   Write an awesome description for your new site here. You can edit this line
-#   in _config.yml. It will appear in your document head meta (for Google search
-#   results) and in your feed.xml site description.
-
+#   My name is Chris Bell...welcome to my blog! I am a Computer Science and Mathematics
+#   double major at Hendrix College. I am currently a Junior, and I am seeking
+#   an internship for this upcoming summer!
 
 # Build settings
 # --------------
@@ -38,7 +37,6 @@
 # sass:
 #   quiet_deps: true
 #   silence_deprecations: [import]
-
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
