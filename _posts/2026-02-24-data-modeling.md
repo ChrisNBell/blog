@@ -37,7 +37,11 @@ Converting the scenario into the ER Diagram was fairly simple. At first, my thre
 
 where the store sells items and the customer orders items. However, because the store only had one attribute, being the owner, it really served no purpose. Instead, I created a new entity: Manufacterer, which replaced store. Now, we know which manufacterer produced which item, which is a lot more useful piece of information. In this way, we can still identify which store we send the items to without any redundant attributes. After this change, the construction of the ER diagram was straightforward, as an item belongs to 1 manufacterer, but a manufacterer can create multiple items. Then, a customer can either order nothing or perform many orders, and an item can either not be sent out to an order or many of that item can be sent through an order. This concludes the construction of the ER Diagram.
 
+![ER Diagram]({{ '/assets/images/Christian Bell-Database and Web Systems- ER Diagram of Store.png' | relative_url }})
+
 Using the ER Diagram, I constructed the Redgate Schema. To do this, I simply created the entities and relationships, and created each of their resepctive attributes. I then created respective primary keys, and utilizing the same connections as the ER Diagram (which are set up differently) automatically created foreign keys for each entity (manufacterer_id should be a FK in Items, but it didn't register for some reason).
+
+![Redgate Schema]({{ '/assets/images/assets/REDGATE 1.png' | relative_url }})
 
 ## Complications and Conclusion
 
