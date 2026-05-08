@@ -1,0 +1,17 @@
+---
+layout: post
+title: Lab 9
+author: Chris Bell
+---
+
+## What parts were new to you?
+
+I was new to navigating through the tutorial and figuring out how the enums worked, in which we have still had some issues with this in our current final project. I was also new to having these multiple models embedded within one another, which was interesting to expiriment with.
+
+## What parts still do not make sense?
+
+Migrations are still something that confuse me. I am not sure what all happens to make the migration step work. I understanding that it has something to do with updating the database and making sure the correct columns are in place and such, but I am not sure how it fully functions yet.
+
+## What are you looking forward to?
+
+I am looking backward on it at this point, but what I would've been looking forward to is creating a website with a fully functional database. Unfortuantely, we have not achieved this yet; however, we are making good progress.
