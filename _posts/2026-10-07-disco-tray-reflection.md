@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disco Tray Reflection 09-23
+title: Disco Tray Reflection 10-07
 author: Chris Bell
 ---
 
